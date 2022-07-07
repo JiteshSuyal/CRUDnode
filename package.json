@@ -1,0 +1,24 @@
+{
+  "name": "crudnode",
+  "version": "1.0.0",
+  "description": "crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiteshSuyal/CRUDnode.git"
+  },
+  "author": "jit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiteshSuyal/CRUDnode/issues"
+  },
+  "homepage": "https://github.com/JiteshSuyal/CRUDnode#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
